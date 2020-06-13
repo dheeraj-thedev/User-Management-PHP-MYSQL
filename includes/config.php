@@ -2,7 +2,7 @@
 // DB credentials.
 define('DB_HOST','database-1.ceufbi9js3ao.ap-south-1.rds.amazonaws.com');
 define('DB_USER','admin');
-define('DB_PASS','tb123456 ');
+define('DB_PASS','tb123456');
 define('DB_NAME','armentum');
 // Establish database connection.
 try
